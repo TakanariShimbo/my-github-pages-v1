@@ -1,8 +1,6 @@
 ## 🚀 About
 
-This is the repository of "My Github Pages".
-
-https://takanarishimbo.github.io/
+This is the repository of "My first Github Pages".
 
 This is developed by Vite + React + Tailwind.
 
@@ -25,7 +23,7 @@ You can check here (http://localhost:8000/) after building server.
 
 ```bash
 # Please change the username and tag correctly.
-docker build -t takanarishimbo/my-github-pages:v1.0.0 .
+docker build -t takanarishimbo/my-github-pages-v1:v1.0.0 .
 ```
 
 ## 🟩 NodeJS

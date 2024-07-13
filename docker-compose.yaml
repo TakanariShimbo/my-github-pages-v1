@@ -4,7 +4,7 @@ services:
   vite-service:
     container_name: my-github-pages-container
 
-    image: takanarishimbo/my-github-pages:v1.0.0
+    image: takanarishimbo/my-github-pages-v1:v1.0.0
 
     ports:
       - "${SERVER_PORT}:8000"
